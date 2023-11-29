@@ -10,7 +10,7 @@ namespace Thread_test
     {
         public static void print_hello(object a)
         {
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine((string)a+"_Hello World!" + i);
             }
