@@ -5,9 +5,11 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread_test", "Thread_test.csproj", "{C58490D0-9D2D-4138-906A-82DAB5510230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread_test2", "..\Thread_test2\Thread_test2.csproj", "{7A2FFC15-6F87-4548-AF19-D10B1439C04C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread_test2", "..\Thread_test2\Thread_test2.csproj", "{7A2FFC15-6F87-4548-AF19-D10B1439C04C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_async", "..\task_async\task_async.csproj", "{36E03A7C-89C0-4649-A729-FC53BA09CFEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_async", "..\task_async\task_async.csproj", "{36E03A7C-89C0-4649-A729-FC53BA09CFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drill_test", "..\drill_test\drill_test.csproj", "{5CAE6614-125C-489D-AEE0-2EA3955E3A99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{36E03A7C-89C0-4649-A729-FC53BA09CFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36E03A7C-89C0-4649-A729-FC53BA09CFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36E03A7C-89C0-4649-A729-FC53BA09CFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
