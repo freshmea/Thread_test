@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AsyncFileIO": {
+      "commandName": "Project",
+      "commandLineArgs": "1.zip 1_copy.zip 2.zip 2_copy.zip 3.zip 3_copy.zip 4.zip 4_copy.zip 5.zip 5_copy.zip"
+    }
+  }
+}
