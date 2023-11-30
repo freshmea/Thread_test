@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread_test2", "..\Thread_t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_async", "..\task_async\task_async.csproj", "{36E03A7C-89C0-4649-A729-FC53BA09CFEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drill_test", "..\drill_test\drill_test.csproj", "{5CAE6614-125C-489D-AEE0-2EA3955E3A99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "drill_test", "..\drill_test\drill_test.csproj", "{5CAE6614-125C-489D-AEE0-2EA3955E3A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplewindow", "..\simplewindow\simplewindow.csproj", "{1EA63D0E-303A-4887-910E-1E5CD84CB776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplepaint", "..\simplepaint\simplepaint.csproj", "{DFF2B380-D568-47C8-915B-CBEA33FBB159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAE6614-125C-489D-AEE0-2EA3955E3A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA63D0E-303A-4887-910E-1E5CD84CB776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA63D0E-303A-4887-910E-1E5CD84CB776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA63D0E-303A-4887-910E-1E5CD84CB776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA63D0E-303A-4887-910E-1E5CD84CB776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF2B380-D568-47C8-915B-CBEA33FBB159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF2B380-D568-47C8-915B-CBEA33FBB159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF2B380-D568-47C8-915B-CBEA33FBB159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF2B380-D568-47C8-915B-CBEA33FBB159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
